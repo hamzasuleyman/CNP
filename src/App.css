@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Protest+Revolution&family=Rubik+Doodle+Shadow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #181e26;
+  color: #f4f4f4;
+  font-family: "Quicksand", sans-serif;
+}
+
+html,
+body {
+  overflow: auto;
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: rgb(110, 106, 171);
+  transition: 0.3s;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #f4f4f4;
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: "Protest Guerrilla", sans-serif;
+}
+
+input {
+  outline: none;
+}

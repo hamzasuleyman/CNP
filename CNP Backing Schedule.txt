@@ -1,0 +1,31 @@
+befor start the game  
+  
+  player numbers value none
+  computer numbers value none
+
+  if player pick 4 numbers
+  also computer pick 4 numbers 
+
+start the game 
+
+  if player guess 4 numbers
+  also computer guess 4 numbers
+
+  if player recive computer guesses number 
+  also computer recive player guesses number
+
+  give the answer for opponent players
+
+    if player answer computer's guesses number
+    also computer answer player's guesses number
+
+    how to answer for opponent
+
+    if your opponent guesses number same to your number you have to give the answer for the opponent using " N " input table 
+    if your opponent guesses number same to your number position you have to give the answer for the opponent using " P " input table 
+
+    .
+    .
+    .
+
+win the game 
